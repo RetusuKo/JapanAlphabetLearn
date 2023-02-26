@@ -1,0 +1,17 @@
+D:\Code\C#\JapanRandomHiraganaKatakana\JapanRandomHiraganaKatakana\bin\Debug\net6.0-windows\JapanRandomHiraganaKatakana.exe
+D:\Code\C#\JapanRandomHiraganaKatakana\JapanRandomHiraganaKatakana\bin\Debug\net6.0-windows\JapanRandomHiraganaKatakana.deps.json
+D:\Code\C#\JapanRandomHiraganaKatakana\JapanRandomHiraganaKatakana\bin\Debug\net6.0-windows\JapanRandomHiraganaKatakana.runtimeconfig.json
+D:\Code\C#\JapanRandomHiraganaKatakana\JapanRandomHiraganaKatakana\bin\Debug\net6.0-windows\JapanRandomHiraganaKatakana.dll
+D:\Code\C#\JapanRandomHiraganaKatakana\JapanRandomHiraganaKatakana\bin\Debug\net6.0-windows\JapanRandomHiraganaKatakana.pdb
+D:\Code\C#\JapanRandomHiraganaKatakana\JapanRandomHiraganaKatakana\obj\Debug\net6.0-windows\JapanRandomHiraganaKatakana.csproj.AssemblyReference.cache
+D:\Code\C#\JapanRandomHiraganaKatakana\JapanRandomHiraganaKatakana\obj\Debug\net6.0-windows\JapanRandomHiraganaKatakana.csproj.GenerateResource.cache
+D:\Code\C#\JapanRandomHiraganaKatakana\JapanRandomHiraganaKatakana\obj\Debug\net6.0-windows\JapanRandomHiraganaKatakana.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\JapanRandomHiraganaKatakana\JapanRandomHiraganaKatakana\obj\Debug\net6.0-windows\JapanRandomHiraganaKatakana.AssemblyInfoInputs.cache
+D:\Code\C#\JapanRandomHiraganaKatakana\JapanRandomHiraganaKatakana\obj\Debug\net6.0-windows\JapanRandomHiraganaKatakana.AssemblyInfo.cs
+D:\Code\C#\JapanRandomHiraganaKatakana\JapanRandomHiraganaKatakana\obj\Debug\net6.0-windows\JapanRandomHiraganaKatakana.csproj.CoreCompileInputs.cache
+D:\Code\C#\JapanRandomHiraganaKatakana\JapanRandomHiraganaKatakana\obj\Debug\net6.0-windows\JapanRandomHiraganaKatakana.dll
+D:\Code\C#\JapanRandomHiraganaKatakana\JapanRandomHiraganaKatakana\obj\Debug\net6.0-windows\refint\JapanRandomHiraganaKatakana.dll
+D:\Code\C#\JapanRandomHiraganaKatakana\JapanRandomHiraganaKatakana\obj\Debug\net6.0-windows\JapanRandomHiraganaKatakana.pdb
+D:\Code\C#\JapanRandomHiraganaKatakana\JapanRandomHiraganaKatakana\obj\Debug\net6.0-windows\JapanRandomHiraganaKatakana.genruntimeconfig.cache
+D:\Code\C#\JapanRandomHiraganaKatakana\JapanRandomHiraganaKatakana\obj\Debug\net6.0-windows\ref\JapanRandomHiraganaKatakana.dll
+D:\Code\C#\JapanRandomHiraganaKatakana\JapanRandomHiraganaKatakana\obj\Debug\net6.0-windows\JapanRandomHiraganaKatakana.Alphabet.resources
